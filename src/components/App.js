@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "../features/NavBar";
-import AppRoutes from "./AppRoutes";
+import Navbar from "./NavBar";
+import AppRoutes from "../store/AppRoutes";
 
 
 function App() {

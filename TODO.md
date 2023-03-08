@@ -2,3 +2,4 @@
 2. connect to API
 3. create components
 4. slices 
+5. edit readme
