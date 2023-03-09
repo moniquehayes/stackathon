@@ -1,8 +1,5 @@
-/// ask about what is needed here ///
-    /// don't see a bundle.js file?
-
 module.exports = {
-    entry: ['./client/index.js'],
+    entry: ['./src/index.js'],
     output: {
       path: __dirname + '/public',
       filename: 'bundle.js',
