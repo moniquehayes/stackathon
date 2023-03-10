@@ -1,10 +1,10 @@
 import { configureStore } from "@reduxjs/toolkit";
-import exercisesReducer from "./citiesSlice";
+import citiesReducer from "./citiesSlice";
 
 
 const store = configureStore({
     reducer: {
-        exercises: exercisesReducer
+        cities: citiesReducer
     }
 });
 
